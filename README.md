@@ -22,7 +22,7 @@
 
 ### AOP的代码片段
 
-![1553584848110](C:\Users\yongahua\AppData\Roaming\Typora\typora-user-images\1553584848110.png)
+![1553584848110](F:\学习\咕泡\学习\design-pattern-summarize\1553584848110.png)
 
 <aop:config >
 	<aop:pointcut id="transactionPointcut"
@@ -88,4 +88,4 @@ public void sayHello() {
 <!-- 自动扫描controller包下的所有类，如果@Controller注入为bean -->
     <context:component-scan base-package="com.pintang"/>
 
-![1553586461924](C:\Users\yongahua\AppData\Roaming\Typora\typora-user-images\1553586461924.png)
+![1553586461924](F:\学习\咕泡\学习\design-pattern-summarize\1553586461924.png)
